@@ -21,6 +21,9 @@ map的特性：
 - http://c.biancheng.net/view/1407.html
 - https://www.cnblogs.com/zhengfa-af/p/8144786.html
 
+hash
+https://www.cnblogs.com/xiguas/p/9977933.html
+
 */
 
 
